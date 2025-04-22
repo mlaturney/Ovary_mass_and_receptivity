@@ -1,2 +1,5 @@
-# Ovary_mass_and_receptivity
-The development of ovary mass and sexual receptivity over first 9 days of adulthood in the variable field cricket (Gryllus lineaticeps)
+# Ovary mass and sexual receptivity analysis in the variable field cricket (Gryllus lineaticeps)
+
+## Summary
+
+Female crickets were assessed for their receptivity and ovary mass on day 1, 3, 5, 7, and 9 of adulthood to explore the relationship between ovary mass and sexual receptivity.
